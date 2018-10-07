@@ -1,4 +1,4 @@
-## CSV to JSON Coverter
+## CSV to JSON Converter
 
 Script to convert CSV data into JSON and generate the file with pipe delimited. 
 
